@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxDuav8q9Hw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elzof\\OneDrive\\Desktop\\Coursera\\InventoryHub_FullStackInt\\BlazorFrontEnd\\MinimalApiBackEnd\\MinimalApiBackEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elzof\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\elzof\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
