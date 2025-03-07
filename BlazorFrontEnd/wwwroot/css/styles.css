@@ -1,0 +1,26 @@
+/* wwwroot/css/styles.css */
+
+.product-card {
+    background-color: #333; /* Dark grey background */
+    color: #f8f9fa; /* Light text */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.product-name {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.product-price {
+    color: #1e90ff; /* Light blue text */
+    margin-bottom: 8px;
+}
+
+.product-category {
+    font-style: italic;
+    color: #dcdcdc; /* Light grey text */
+}

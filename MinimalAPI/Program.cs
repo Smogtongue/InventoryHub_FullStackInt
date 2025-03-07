@@ -52,5 +52,4 @@ app.MapGet("/api/productlist", () =>
     };
 });
 
-
 app.Run();

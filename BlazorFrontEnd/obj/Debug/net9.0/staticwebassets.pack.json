@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\elzof\\OneDrive\\Desktop\\Coursera\\InventoryHub_FullStackInt\\BlazorFrontEnd\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\elzof\\OneDrive\\Desktop\\Coursera\\InventoryHub_FullStackInt\\BlazorFrontEnd\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
