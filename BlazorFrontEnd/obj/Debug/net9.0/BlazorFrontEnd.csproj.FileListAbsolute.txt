@@ -1,7 +1,7 @@
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
-C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\BlazorFrontEnd.8z7uksyq0d.pdb
-C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\BlazorFrontEnd.sh5g1zc2q1.wasm
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\BlazorFrontEnd.i9lje2vefw.pdb
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\BlazorFrontEnd.r9m9bmdlqk.wasm
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.8o8n7iomrf.js
@@ -300,7 +300,7 @@ C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEn
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.Drawing.Primitives.wesyyx6itb.wasm.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.Private.DataContractSerialization.h3lzbevrhq.wasm.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.Console.w0ay1b4srp.wasm.gz
-C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\BlazorFrontEnd.sh5g1zc2q1.wasm.gz
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\BlazorFrontEnd.r9m9bmdlqk.wasm.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.ServiceProcess.4n5pile68t.wasm.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.Private.CoreLib.u3k7k03qne.wasm.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.Drawing.5kh3shl062.wasm.gz
@@ -344,7 +344,7 @@ C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEn
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.Data.DataSetExtensions.27v8nihu4b.wasm.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.tlm3i6pt76.wasm.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.ObjectModel.55syvdebib.wasm.gz
-C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\BlazorFrontEnd.8z7uksyq0d.pdb.gz
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\BlazorFrontEnd.i9lje2vefw.pdb.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.vd4tq7rihd.wasm.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Reader.09wnmnw7h6.wasm.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\bin\Debug\net9.0\wwwroot\_framework\System.Globalization.Calendars.wyl6b2gjv4.wasm.gz
@@ -1065,9 +1065,9 @@ C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEn
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\compressed\1fit1wn8me-tjcz0u77k5.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\compressed\6sdo3jlbgc-tptq2av103.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\compressed\ytnf4u0r5x-lfu7j35m59.gz
-C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\compressed\i7shxqoksw-sh5g1zc2q1.gz
-C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\compressed\qk8vy3lxlu-8z7uksyq0d.gz
-C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\compressed\zimiodnrnq-y9ogz57h05.gz
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\compressed\i7shxqoksw-r9m9bmdlqk.gz
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\compressed\qk8vy3lxlu-i9lje2vefw.gz
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\compressed\zimiodnrnq-2vu453gbc6.gz
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\BlazorFrontEnd\obj\Debug\net9.0\staticwebassets.build.endpoints.json

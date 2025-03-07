@@ -24,10 +24,21 @@
     {
         try
         {
-            var response = await Http.GetAsync("/api/products");
+            var response = await Http.GetAsync("/api/productlist");
             response.EnsureSuccessStatusCode();
             var json = await response.Content.ReadAsStringAsync();
+            Console.WriteLine($"Response JSON: {json}"); // Log the response content
+            
+            // Deserialize the JSON response
             products = System.Text.Json.JsonSerializer.Deserialize<Product[]>(json);
+            Console.WriteLine("Deserialized Products: ");
+            if (products != null)
+            {
+                foreach (var product in products)
+                {
+                    Console.WriteLine($"Product: {product.Name}, Price: {product.Price}");
+                }
+            }
         }
         catch (Exception ex)
         {
@@ -37,9 +48,16 @@
 
     public class Product
     {
+        [System.Text.Json.Serialization.JsonPropertyName("id")]
         public int Id { get; set; }
+
+        [System.Text.Json.Serialization.JsonPropertyName("name")]
         public string? Name { get; set; }
+
+        [System.Text.Json.Serialization.JsonPropertyName("price")]
         public double Price { get; set; }
+
+        [System.Text.Json.Serialization.JsonPropertyName("stock")]
         public int Stock { get; set; }
     }
 }

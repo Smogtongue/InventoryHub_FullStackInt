@@ -41,9 +41,13 @@ C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bi
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\System.ClientModel.dll
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\System.CodeDom.dll
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
@@ -143,6 +147,7 @@ C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\ob
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\obj\Debug\net9.0\MinimalAPI.AssemblyInfoInputs.cache
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\obj\Debug\net9.0\MinimalAPI.AssemblyInfo.cs
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\obj\Debug\net9.0\MinimalAPI.csproj.CoreCompileInputs.cache
+C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\obj\Debug\net9.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\obj\Debug\net9.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\obj\Debug\net9.0\MinimalAPI.sourcelink.json
 C:\Users\elzof\OneDrive\Desktop\Coursera\InventoryHub_FullStackInt\MinimalAPI\obj\Debug\net9.0\scopedcss\bundle\MinimalAPI.styles.css
