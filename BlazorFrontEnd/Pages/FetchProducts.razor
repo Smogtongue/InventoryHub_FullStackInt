@@ -8,7 +8,17 @@
     {
         foreach (var product in products)
         {
-            <li>@product.Name - $@product.Price</li>
+            <li>
+                @product.Name - $@product.Price 
+                @if (product.Category != null)
+                {
+                    (Category: @product.Category.Name)
+                }
+                else
+                {
+                    (Category: None)
+                }
+            </li>
         }
     }
     else
@@ -59,5 +69,17 @@
 
         [System.Text.Json.Serialization.JsonPropertyName("stock")]
         public int Stock { get; set; }
+
+        [System.Text.Json.Serialization.JsonPropertyName("category")]
+        public Category? Category { get; set; }
+    }
+
+    public class Category
+    {
+        [System.Text.Json.Serialization.JsonPropertyName("id")]
+        public int Id { get; set; }
+
+        [System.Text.Json.Serialization.JsonPropertyName("name")]
+        public string? Name { get; set; }
     }
 }
